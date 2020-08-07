@@ -1,0 +1,61 @@
+a {
+    color: white;
+    font-size: 30;
+}
+
+h1 {
+    color :white;
+    font-size: 30px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+/* * {
+    background-color : rgb(red, green, blue)(158, 1, 158)
+    font-size: 20px;
+} */
+
+.questionone{
+    text-align: center;
+}
+ 
+p {
+    background-color: white;
+    color: white;
+    font-size: larger;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+.large {
+    font-size : 50px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+h2, h3, h4, h5, h6 {
+    color:white;
+    font-size: 25px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+
+* {
+    background-image: url("images/Wallpaper.jpg");
+}
